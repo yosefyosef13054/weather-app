@@ -21,3 +21,5 @@ this app is built for challange purpose only :
 - enter your address details  or only your country or city or both to display the current weather 
 
 - to show the app weather api log shake your phone 
+
+- apk downloadable link : https://www.mediafire.com/file/whpzz1dj68s9uv6/weather_app.apk/file
