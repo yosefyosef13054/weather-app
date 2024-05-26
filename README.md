@@ -2,15 +2,22 @@
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+this app is built for challange purpose only :
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## to run the app :
+
+ # use command in terminal 
+
+- flutter run
+
+## how to use the app 
+
+
+- enable location permissions
+
+- enter your details address or only your country or city or both to display the current weather 
+
+- to show the app weather log shake your phone 
