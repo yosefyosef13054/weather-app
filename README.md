@@ -18,6 +18,6 @@ this app is built for challange purpose only :
 
 - enable location permissions
 
-- enter your details address or only your country or city or both to display the current weather 
+- enter your address details  or only your country or city or both to display the current weather 
 
-- to show the app weather log shake your phone 
+- to show the app weather api log shake your phone 
